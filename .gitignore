@@ -364,4 +364,4 @@ FodyWeavers.xsd
 
 
 # Firebase settings
-./firebase-credentials.json
+firebase-credentials.json
