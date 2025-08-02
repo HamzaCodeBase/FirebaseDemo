@@ -1,0 +1,6 @@
+@FirebaseDemo_HostAddress = http://localhost:5091
+
+GET {{FirebaseDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
