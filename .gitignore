@@ -363,5 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 
-# Firebase settings
+# Firebase (FireStore) settings 
 firebase-credentials.json
